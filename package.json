@@ -1,0 +1,15 @@
+{
+  "name": "frontend-interview-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "记录前端面试、学习的过程",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangxingkang/frontend-interview-study.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangxingkang/frontend-interview-study/issues"
+  },
+  "homepage": "https://github.com/wangxingkang/frontend-interview-study#readme"
+}
